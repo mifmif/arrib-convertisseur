@@ -1,0 +1,1 @@
+Application de conversion du texte latin en texte arabe pour les smartphones Android .
